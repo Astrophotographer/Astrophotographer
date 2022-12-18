@@ -17,7 +17,7 @@
  #### 	📚 Education & Cooperation 👯
  
  - 👯 Completed Science Communicator, Contents Hackerton        KOFAC & GALDAR(과학창의재단, 갈다), Seoul,      (2022.07 ~ 2022.10)
- - 👯 Completed Broadcasting/Professional Camera Academy        KBS(한국방송공사), Seoul,                      (2022.01 ~ 2022.03)
+ - 👯 Completed Professional Camera & Image Processing Academy  KBS(한국방송공사), Seoul,                      (2022.01 ~ 2022.03)
  - 👯 Completed Science Communicator, Content-Trends Analysis   KOFAC & Sandbox(과학창의재단, 샌드박스), Seoul,  (2021.06 ~ 2022.11)
  - 👯 Completed Local Contents Creator                          RAPA & MediaJamong(전파진흥협회, 미디어자몽),    (2021.06 ~ 2022.11)
  
@@ -45,19 +45,20 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white" />
+	  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
+	  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+	  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white" />
 	<br>
   <p> Back-End <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+ 	 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+ 	 <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
 	<br> 
    <p> DB-Server <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
