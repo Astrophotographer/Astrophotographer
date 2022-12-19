@@ -16,10 +16,10 @@
  ---
  #### 	📚 Education & Cooperation 👯
  
- - 👯 (2022.07 ~ 2022.10) Science Communicator, Contents Hackerton        KOFAC & GALDAR(과학창의재단, 갈다), Seoul    
- - 👯 (2022.01 ~ 2022.03) Professional Camera & Image Processing Academy  KBS(한국방송공사), Seoul                     
- - 👯 (2021.07 ~ 2021.11) Science Communicator, Content-Trends Analysis   KOFAC & Sandbox(과학창의재단, 샌드박스), Seoul 
- - 👯 (2020.06 ~ 2020.11) Local Contents Creator                          RAPA & MediaJamong(전파진흥협회, 미디어자몽)   
+ - 👯 (2022.07 ~ 2022.10) Science Communicator, Contents Hackerton        /KOFAC & GALDAR(과학창의재단, 갈다), Seoul    
+ - 👯 (2022.01 ~ 2022.03) Professional Camera & Image Processing Academy  /KBS(한국방송공사), Seoul                     
+ - 👯 (2021.07 ~ 2021.11) Science Communicator, Content-Trends Analysis   /KOFAC & Sandbox(과학창의재단, 샌드박스), Seoul 
+ - 👯 (2020.06 ~ 2020.11) Local Contents Creator                          /RAPA & MediaJamong(전파진흥협회, 미디어자몽)   
  
  
 ---
