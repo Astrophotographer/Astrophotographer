@@ -16,17 +16,17 @@
  ---
  #### 	📚 Education & Cooperation 👯
  
- - 👯 Completed Science Communicator, Contents Hackerton        KOFAC & GALDAR(과학창의재단, 갈다), Seoul,      (2022.07 ~ 2022.10)
- - 👯 Completed Professional Camera & Image Processing Academy  KBS(한국방송공사), Seoul,                      (2022.01 ~ 2022.03)
- - 👯 Completed Science Communicator, Content-Trends Analysis   KOFAC & Sandbox(과학창의재단, 샌드박스), Seoul,  (2021.06 ~ 2022.11)
- - 👯 Completed Local Contents Creator                          RAPA & MediaJamong(전파진흥협회, 미디어자몽),    (2021.06 ~ 2022.11)
+ - 👯 (2022.07 ~ 2022.10) Science Communicator, Contents Hackerton        KOFAC & GALDAR(과학창의재단, 갈다), Seoul    
+ - 👯 (2022.01 ~ 2022.03) Professional Camera & Image Processing Academy  KBS(한국방송공사), Seoul                     
+ - 👯 (2021.07 ~ 2021.11) Science Communicator, Content-Trends Analysis   KOFAC & Sandbox(과학창의재단, 샌드박스), Seoul 
+ - 👯 (2020.06 ~ 2020.11) Local Contents Creator                          RAPA & MediaJamong(전파진흥협회, 미디어자몽)   
  
  
 ---
  #### 👔 Work Experience 💰
 
-- 🏢 Worked as MediaContents Teacher at Education office of Artcenter HAEBOM, Jinju (2019.03 ~ 2021.12)
-- 🏢 Worked as Contents Maker Freelancer, Berlin, Germany (2015.05 ~ 2018.10)
+- 🏢 (2019.03 ~ 2021.12) Worked as MediaContents Teacher at Education office of Artcenter HAEBOM, Jinju 
+- 🏢 (2015.05 ~ 2018.10) Worked as Contents Maker Freelancer, Berlin, Germany 
 
 ---
 <!-- #### :압정: Tech Stack :압정:
