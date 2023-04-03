@@ -38,7 +38,7 @@
 
   #### SERVER 
 ---
-	-	  www.Aigrahpers.com (WEB) - under maintenance        Operation using NAS920+
+	-	  www.AIgraphers.com (WEB) - under maintenance        Operation using NAS920+
 	-	  www.chanuk.ddns.net:8080 (HA)  			  Operation using NUC
 
 
