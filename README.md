@@ -36,7 +36,10 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrophotographer&layout=compact)](https://github.com/astrophotographer/github-readme-stats) -->
 
-
+  #### SERVER 
+---
+	-	  www.Aigrahpers.com (WEB) - under maintenance        Operation using NAS920+
+	-	  www.chanuk.ddns.net:8080 (HA)  			  Operation using NUC
 
 
 #### <p>✨ Platforms & Languages ✨</p>
@@ -67,5 +70,11 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  
+	
+   <p> CV <P>
+	<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" />
+	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
+	   
+
 
