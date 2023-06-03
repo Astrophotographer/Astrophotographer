@@ -16,7 +16,7 @@
  ---
  #### 	📚 Education & Cooperation 👯
  - 👯 (2023.04 ~ 2023.09) Image-Processing, ComputerVision Course &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       /Microsoft AI school, Seoul      
- - 👯 (2022.11 ~ 2023.04) DevOps, AI(ComputerVision) Course  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	  /GSC Campus, Seoul      
+ - 👯 (2022.11 ~ 2023.04) DevOps, AI(ComputerVision) Course  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       	  /GSC Campus, Seoul      
  - 👯 (2022.07 ~ 2022.10) Science Communicator, Contents Hackerton &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         /KOFAC & GALDAR(과학창의재단, 갈다), Seoul	
  - 👯 (2022.05 ~ 2022.10) Backend, Data-Processing Course  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         	  /Tjoeun academy, Seoul        
  - 👯 (2022.01 ~ 2022.03) Professional Camera & Image-Processing Academy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /KBS(한국방송공사), Seoul                     
