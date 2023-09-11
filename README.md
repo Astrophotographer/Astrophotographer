@@ -3,7 +3,7 @@
 #### 🔭 Who am I 🔬
  🎓 I majored in Physics.
  
- 📐 I’m currently learning AI & ML/DL and Data Analysis.
+ 📐 I’m currently learning ComputerVision & Data Engineering
  
  🌈 I’m interested in 
    -  🔌 IOT(Network & Automation & NAS)
