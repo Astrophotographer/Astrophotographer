@@ -28,7 +28,7 @@
 ---
  #### 👔 Work Experience 💰
 
-- 🏢 (2019.03 ~ 2021.12) Worked as MediaContents Teacher at Education of office - Artcenter HAEBOM, Jinju 
+- 🏢 (2019.03 ~ 2021.12) Worked as MediaContents Teacher at Office of Education - Artcenter HAEBOM(경상남도 교육청 예술교육원 해봄), Jinju 
 - 🏢 (2015.05 ~ 2018.10) Worked as Contents Maker Freelancer, Berlin, Germany 
 
 ---
