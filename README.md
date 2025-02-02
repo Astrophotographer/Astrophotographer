@@ -39,8 +39,8 @@
 
   #### SERVER 
 
-	-	  AIgraphers.com 	(WEB) - under maintenance       Operation using NAS920+
-	-	  NUCpromox.ddns.net:8006  (HA)  			  	Operation using NUC
+	-	  AIgraphers.com 		(WEB) - under maintenance       Operation using NAS920+
+	-	  NUCpromox.ddns.net:8006 	 (HA)  			  	Operation using NUC
 ---
 
 #### <p>✨ Platforms & Languages ✨</p>
