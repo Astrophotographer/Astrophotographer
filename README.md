@@ -40,7 +40,7 @@
   #### SERVER 
 
 	-	  AIgraphers.com 		(WEB) - under maintenance       Operation using NAS920+
-	-	  HAserver.ddnsking.com:8123	(HA)  			  	Operation using NUC
+	-	  HAserver.ddnsfree.com:8123	(HA)  			  	Operation using NUC
  	-	  chanuk.ddns.net:8006 		(Proxmox)  			Operation using NUC
  
 ---
