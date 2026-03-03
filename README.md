@@ -39,9 +39,9 @@
 
   #### SERVER 
 
-	-	  AIgraphers.com 			(WEB) - under maintenance       Operation using NAS920+
-	-	  HAserver.ddnsfree.com			(HA)  			  	Operation using NUC
- 	-	  chanuk.ddns.net:8006 			(Proxmox)  			Operation using NUC
+	-	  AIgraphers.com 			(WEB)						Operation using NAS920+
+	-	  ha.chanuk.theworkpc.com			(HA)  			  	Operation using NUC
+ 	-	  n8n.chanuk.theworkpc.com 			(n8n)				Operation using NUC
  
 ---
 
