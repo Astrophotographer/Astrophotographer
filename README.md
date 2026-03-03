@@ -39,7 +39,7 @@
 
   #### SERVER 
 
-	-	  AIgraphers.com 			(WEB)						Operation using NAS920+
+	-	  AIgraphers.com 					(WEB)				Operation using NAS920+
 	-	  ha.chanuk.theworkpc.com			(HA)  			  	Operation using NUC
  	-	  n8n.chanuk.theworkpc.com 			(n8n)				Operation using NUC
  
